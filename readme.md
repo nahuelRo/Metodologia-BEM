@@ -1,4 +1,4 @@
-# Link (github page)[https://nahuelro.github.io/Metodologia-BEM/]
+# Link [github page](https://nahuelro.github.io/Metodologia-BEM/)
 
 # Metodologia en CSS
 
