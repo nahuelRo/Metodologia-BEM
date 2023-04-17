@@ -105,7 +105,7 @@ BEM tiene muchas ventajas en el código de día a día:
 * 👉Muy pensados para usar con preprocesadores (SCSS)
 
 Pero también algunas "desventajas":
-* 👉 El HTML que muy largo
+* 👉 El HTML queda muy largo
 
 
 
